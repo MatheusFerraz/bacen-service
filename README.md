@@ -1,2 +1,2 @@
 # bacen-service
-API para simulação de recepção de transferências
+API para simulação de recepção de transferências.
